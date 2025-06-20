@@ -1,1 +1,2 @@
-[View the Full Commands Guide here](terminal_commands.md)
+[Terminal Folder Commands Guide here](terminal_commands.md)
+[Basic Git Guide here](terminal_commands.md)
