@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+.history/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# Others
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*~
+*.bak
+*.tmp
