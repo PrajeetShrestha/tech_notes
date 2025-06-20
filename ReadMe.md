@@ -1,0 +1,1 @@
+[View the Full Commands Guide here](terminal_commands.md)
